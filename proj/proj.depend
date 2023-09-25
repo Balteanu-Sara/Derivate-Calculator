@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1673284008 source:c:\users\sara\onedrive\desktop\facultate\ip\proiect\proj\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cstring>
+	<fstream>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1673288020 source:c:\users\sara\onedrive\desktop\facultate\an1\semestrul1\ip\proiect\proj\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<cstring>
+	<fstream>
+
